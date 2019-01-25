@@ -25,10 +25,12 @@ Or
 git clone http://github.com/Flaw57/Joomflaw
 cd Joomflaw
 python2 Joomflaw.py
+
 YOU WILL ENTER THE TOOL AFTER ACCEPTING THE WARNING 
 Usage of tool 
-set url http://example.com/blabka
-run
+Coder >> help 
+Coder >> set url http://example.com/blabka
+Coder >> run
 . 
 Payload will be generated if site is vulnerable of try other site 
 Scanning a List feature is available but contact me http://www.facebook.com/flaw57 to get method of using list feature
@@ -37,4 +39,4 @@ Open local host in browser and upload file
 If you get a 404 error of file path null, it means vulnerability has been patched in that site 
 Further Flaw57 will release other versions n type of Joomflaw allowing to exploit other Joomla Csrf vulnerabilities 
 
-Team Flaw57 
+©Team Flaw57 Copyright Flaw57 2019
