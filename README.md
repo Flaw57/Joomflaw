@@ -10,7 +10,7 @@ Usage :
 Termux =
 Requires python2 installed 
 $ pkg install python2 
-$ git clone htpp://github.com/Flaw57/Joomflaw
+$ git clone http://github.com/Flaw57/Joomflaw
 Or 
 $ git clone http://github.com/Flaw57/This is extremely useful script released currently in beta version for scanning Joomla com_fabrik csrf vulnerability 
 Members of Flaw57 have worked Night long to Release this script today On occasion of Republic Day of India 
