@@ -6,25 +6,16 @@ The script has been developed over a night By members of FLAW57 to release it on
 Wishing Everyone Happy Republic Day... 
 
 . 
-Usage :
-Termux =
-Requires python2 installed 
-$ pkg install python2 
-$ git clone http://github.com/Flaw57/Joomflaw
-Or 
-$ git clone http://github.com/Flaw57/This is extremely useful script released currently in beta version for scanning Joomla com_fabrik csrf vulnerability 
-Members of Flaw57 have worked Night long to Release this script today On occasion of Republic Day of India 
-Wishing everyone Happy Republic Day.... 
 . 
 Usage 
 Termux :
 requirements : python2 
 steps 
-git clone http://github.com/Flaw57/Joomflaw.git 
+$ git clone http://github.com/Flaw57/Joomflaw.git 
 Or 
-git clone http://github.com/Flaw57/Joomflaw
-cd Joomflaw
-python2 Joomflaw.py
+$ git clone http://github.com/Flaw57/Joomflaw
+$ cd Joomflaw
+$ python2 Joomflaw.py
 
 YOU WILL ENTER THE TOOL AFTER ACCEPTING THE WARNING 
 Usage of tool 
