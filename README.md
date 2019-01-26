@@ -23,10 +23,10 @@ Coder >> help
 Coder >> set url http://example.com/blabka
 Coder >> run
 . 
-Recently Added A new type com_b2jcontact Csrf Ecploit 
+Recently Added A new type com_b2jcontact and com_jimtawl Csrf Ecploit 
 Use following code to run type com_b2jcontact type tool 
 $ cd Joomflaw
-$ python2 joomflaw2.py
+$ python2 joomflaw2.py ( for com_b2jcontact) and $ python2 joomflaw3.py ( for com_jimtawl) 
 Tool wil start functioning 
 Payload will be generated if site is vulnerable of try other site 
 Scanning a List feature is available but contact me http://www.facebook.com/flaw57 to get method of using list feature
