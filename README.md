@@ -24,7 +24,7 @@ Coder >> set url http://example.com/blabka
 Coder >> run
 . 
 Recently Added A new type com_b2jcontact and com_jimtawl Csrf Ecploit 
-Use following code to run type com_b2jcontact type tool 
+Use following code to run type com_b2jcontact or com_jimtawl type tool 
 $ cd Joomflaw
 $ python2 joomflaw2.py ( for com_b2jcontact) and $ python2 joomflaw3.py ( for com_jimtawl) 
 Tool wil start functioning 
